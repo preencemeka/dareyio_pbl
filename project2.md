@@ -94,8 +94,13 @@ server {
    4. Grant the user full privileges using the command - GRANT ALL ON example_database.* TO 'example_user'@'%';
    5. Exit mysql and then log in with the newly created user using the command - mysql -u example_user -p
    6. To confirm the newly created database - show databases;
+   
    ![image](https://user-images.githubusercontent.com/72884580/218338293-21974df9-e267-4d49-aac2-8585a01728e4.png)
+   
+   
    7. Creating a todo_list, output is:
+
+
    ![todo_list php](https://user-images.githubusercontent.com/72884580/218338342-dc0d2b8a-a970-43bb-9c5b-71a4c43e288e.jpg)
    
 
