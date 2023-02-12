@@ -97,6 +97,8 @@ server {
    ![image](https://user-images.githubusercontent.com/72884580/218338293-21974df9-e267-4d49-aac2-8585a01728e4.png)
    7. Creating a todo_list, output is:
    ![todo_list php](https://user-images.githubusercontent.com/72884580/218338342-dc0d2b8a-a970-43bb-9c5b-71a4c43e288e.jpg)
+   ![todo_list php](https://user-images.githubusercontent.com/72884580/218338490-900881aa-11b1-4f4e-8a12-594920aab0cf.jpg)
+
 
 
 
